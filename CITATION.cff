@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it. A related article is in preparation; its citation and DOI will be added here upon publication."
+title: Adaptive HMM-LSTM framework for dry weather flow
+type: software
+authors:
+  - given-names: Chuyu
+    family-names: Xiong
+    affiliation: "The University of Hong Kong"
+  - given-names: Ting Fong May
+    family-names: Chui
+    affiliation: "The University of Hong Kong"
+version: "1.0.0"                 
+date-released: "2026-10-05"     
+url: "https://github.com/VennyXCY/dwf-hmm-lstm"
+repository-code: "https://github.com/VennyXCY/dwf-hmm-lstm"
+license: MIT
+keywords:
+  - dry weather flow
+  - hidden Markov model
+  - LSTM
+  - state recognition
+  - adaptive framework
+  - MS4 stormwater
+# A related article is currently in preparation. Once it is published, add a
+# `preferred-citation:` block here (type: article, with journal / year / doi) so
+# that "Cite this repository" points to the article.
+

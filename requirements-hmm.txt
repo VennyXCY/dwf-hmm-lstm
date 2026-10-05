@@ -1,0 +1,14 @@
+# Environment: dwf-hmm-pip
+# Used by the HMM stage: phase 1 (build_baseline_archive), phase 2 part 1
+# (HMM matching), reconstruction, and the HMM-based figure / analysis scripts.
+# Pinned to the versions used for this study.
+
+numpy==1.24.3
+pandas==2.1.4
+scipy==1.15.3
+scikit-learn==1.7.2
+hmmlearn==0.3.3
+matplotlib==3.10.8
+seaborn==0.13.2
+joblib==1.5.2
+openpyxl==3.1.5

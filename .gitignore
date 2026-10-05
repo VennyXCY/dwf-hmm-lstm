@@ -1,0 +1,16 @@
+# Generated outputs (data tables + figures)
+results/*
+!results/.gitkeep
+
+# Data are not redistributed (governed via HydroShare)
+data/*.csv
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
